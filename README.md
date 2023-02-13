@@ -5,3 +5,5 @@ This package provides functionality to record, analyze, view, and store motion d
 The current functionality is sufficient to receive emitted [Device Motion](https://developer.apple.com/documentation/coremotion/cmdevicemotion) data, compute a few simple statistics, and save it to a [JSON](https://www.json.org/json-en.html) file.
 
 Work is being done to develop statistical processes capable of detecting and counting repeated motions. Experiments are being conducted on exported JSON motion data using the [NumPy](https://numpy.org/), [SciPy](https://scipy.org/) and [Matplotlib](https://matplotlib.org/) [Python](https://www.python.org/) libraries.
+
+Read the [documentation](https://watsonkp.github.io/SulliedMotion/documentation/sulliedmotion/) on GitHub Pages.
